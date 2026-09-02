@@ -47,7 +47,6 @@ IMPORTANT_KEYWORDS = [
     "invoice",
     "inspection",
 ]
-]
 
 
 def classify_email(email: Email) -> TriageResult:
