@@ -40,5 +40,5 @@ Keyword matching is a starting point for experimentation. It does not interpret 
 
 ## License
 
-[MIT](LICENSE) — Copyright (c) 2026 OpenclawPrime.
+[MIT](LICENSE) — Copyright (c) 2026 HermesPrimeHQ.
 
